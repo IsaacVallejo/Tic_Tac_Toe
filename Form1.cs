@@ -71,7 +71,7 @@ namespace Tic_Tac_Toe
             {
                 the_winner = true;
             }
-            else if ((A2.Text == B2.Text) && (B2.Text == C3.Text) && (!A2.Enabled))
+            else if ((A2.Text == B2.Text) && (B2.Text == C2.Text) && (!A2.Enabled))
             {
                 the_winner = true;
             }
